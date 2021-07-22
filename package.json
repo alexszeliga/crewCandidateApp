@@ -1,0 +1,22 @@
+{
+  "name": "crewcandidateapp",
+  "version": "1.0.0",
+  "description": "A node JS app that helps manage a fantasy crew of animals while they try to get to outer space.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexszeliga/crewCandidateApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexszeliga/crewCandidateApp/issues"
+  },
+  "homepage": "https://github.com/alexszeliga/crewCandidateApp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
